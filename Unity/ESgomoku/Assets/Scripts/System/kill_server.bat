@@ -1,0 +1,1 @@
+TASKKILL /FI "WINDOWTITLE eq "ESgomoku_server"

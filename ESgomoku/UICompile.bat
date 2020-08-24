@@ -1,0 +1,1 @@
+C:\Users\user\Anaconda3\envs\python37\Scripts\pyuic5 %~nx1 -o ./%~n1.py
