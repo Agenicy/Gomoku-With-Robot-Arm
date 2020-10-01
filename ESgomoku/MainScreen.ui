@@ -280,6 +280,19 @@ Output here.</string>
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
+   <widget class="QLabel" name="credits">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>660</y>
+      <width>101</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>E94066115 蔡皓名</string>
+    </property>
+   </widget>
    <zorder>label_2</zorder>
    <zorder>Frame_img</zorder>
    <zorder>Frame_dst</zorder>
@@ -289,6 +302,7 @@ Output here.</string>
    <zorder>label_board</zorder>
    <zorder>frame_2</zorder>
    <zorder>label_console</zorder>
+   <zorder>credits</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -296,7 +310,7 @@ Output here.</string>
      <x>0</x>
      <y>0</y>
      <width>1280</width>
-     <height>24</height>
+     <height>20</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuSystem">
